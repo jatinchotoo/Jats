@@ -5,6 +5,7 @@
 # STRATIFI AI – Ethical Finance Innovation Portfolio
 Modular, sprint-based documentation of SAP, AI, and analytics learning.  
 Built for recruiter visibility, global impact, and open-source mentorship.
+
 STRATIFI-AI/
 │
 ├── README.md                        # Portfolio overview & recruiter intro
