@@ -9,10 +9,12 @@ Built for recruiter visibility, global impact, and open-source mentorship.
 STRATIFI-AI/
 │
 ├── README.md                        # Portfolio overview & recruiter intro
+
 │
 ├── certifications/                 # All badges & credentials
 │   └── certifications.md           # Full list with categories & links
 │
+
 ├── internship-excelerate-ai/      # Sprint logs from Excelerate AI
 │   ├── week-1-feedback.md
 │   ├── week-2-feedback.md
@@ -20,8 +22,10 @@ STRATIFI-AI/
 │   ├── week-4-feedback.md
 │   └── case-study.md               # Optional unified summary
 │
+
 ├── projects/                       # Optional: analytics or SAP mini-projects
 │   └── churn-analysis-model/      # Example: Week 3 predictive model
 │
+
 └── assets/                         # Images, visuals, dashboards
     └── badge-board.png            # Optional visual summary
